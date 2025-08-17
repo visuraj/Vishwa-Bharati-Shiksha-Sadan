@@ -146,7 +146,7 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 - Shivam Sourav
 - Mayank Patel
 - Satyam Singh
-- Pruthvi
+- Vishal Kumar
 - Aditya Rajhans
 
 ## License
